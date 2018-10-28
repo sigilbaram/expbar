@@ -26,6 +26,7 @@ ui.display(function()
             resources.jobs[player.sub_job_id].ens, player.sub_job_level,
             'khaki', '1px black'))
 
+        --Show a progress bar to the next level
         ui.location(100, 5)
         ui.size(500, 2)
         ui.progress(exp_percent, {color = ui.color.khaki})
