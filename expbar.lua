@@ -10,7 +10,7 @@ local window_state = {
     style = 'chromeless',
     x = math.floor(windower.settings.ui_size.width / 2) - 350,
     y = 1,
-    width = 700,
+    width = 750,
     height = 16,
     color = ui.color.rgb(0,0,0,0)
 }
