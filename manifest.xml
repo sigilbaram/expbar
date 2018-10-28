@@ -3,7 +3,6 @@
     <version>1.0</version>
     <type>addon</type>
     <dependencies>
-        <dependency>settings</dependency>
         <dependency>player</dependency>
         <dependency>resources<dependency>
     </dependencies>
