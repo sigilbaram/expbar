@@ -4,6 +4,6 @@
     <type>addon</type>
     <dependencies>
         <dependency>player</dependency>
-        <dependency>resources<dependency>
+        <dependency>resources</dependency>
     </dependencies>
 </package>
